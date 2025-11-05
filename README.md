@@ -97,7 +97,10 @@ The goal of this analysis was to uncover **how factors such as price, rating, an
 
 ## 💻 Streamlit Dashboard
 
-**File:** `app/app.py`
+**File:** `app/app.py`  
+
+[Streamlit App Link](https://amazon-sales-ml-project.streamlit.app)
+
 
 The interactive dashboard visualizes the key insights extracted from the cleaned dataset.
 Users can explore **categories**, **price segments**, and **product performance** dynamically through filters.
